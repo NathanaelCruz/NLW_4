@@ -1,6 +1,7 @@
 .profileContainer {
     display: flex;
     align-items: center;
+    min-width: 290px;
 }
 
 .profileContainer__imgPerfil {
