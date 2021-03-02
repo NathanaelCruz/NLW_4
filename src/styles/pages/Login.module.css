@@ -1,0 +1,27 @@
+.login__container {
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--blue);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.login__figure {
+    display: none;
+}
+
+.contentinfo {
+    display: flex;
+    align-items: flex-start;
+    justify-self: center;
+}
+
+@media (min-width: 767px) {
+    .login__figure {
+        display: flex;
+        width: 45%;
+        margin-right: 5%;
+    }
+}
