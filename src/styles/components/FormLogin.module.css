@@ -46,7 +46,7 @@
     background: linear-gradient(to right, var(--blue-dark), var(--blue));
     font-size: 1rem;
     border-radius: 5px 0px 0px 5px;
-    color: var(--placeholder);
+    color: var(--white);
 }
 
 .login__formInputText:active,
