@@ -19,8 +19,8 @@ Além de seguir e aprender com o evento o uso de Hooks, Context API e outras fer
  1. Faça o `git clone` deste projeto
  2. Na pasta raiz use o `npm i` para instalar as dependências
  3. Na pasta aberta para rodar tanto o servidor JSON Server e o NEXTJS:
- 3.1. NEXTJS: `npm run dev` (localhost:3000)[http://localhost:3000/]
- 3.2.JSON-SERVER: `npm run start-db` (localhost:3002)[http://localhost:3002/]
+    1. NEXTJS: `npm run dev` (localhost:3000)[http://localhost:3000/]
+    2. JSON-SERVER: `npm run start-db` (localhost:3002)[http://localhost:3002/]
 
 **ATENÇÃO**: Em fase de melhorias
 
